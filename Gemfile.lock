@@ -39,10 +39,13 @@ GEM
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
+<<<<<<< HEAD
     ffi (1.17.0)
+=======
     PLATFORMS
          x64-mingw32
          x86_64-linux
+>>>>>>> 9cbc2ef759aae92dd854538e937db8498ef69fc8
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
     github-pages (231)
